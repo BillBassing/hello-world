@@ -1,4 +1,4 @@
-# hello-world2
+# hello-world
 Following the training
 
 I'm following the online training and now I'm editing the file.
